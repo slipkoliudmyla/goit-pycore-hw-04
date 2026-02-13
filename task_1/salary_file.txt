@@ -1,0 +1,5 @@
+Alex Knur,8000
+Alina Patoroch,7000
+Rahil Ramanau,6500
+Oleg Ovna,3455
+Eliza Shmel,7677
